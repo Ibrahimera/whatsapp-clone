@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-## `download or clone the repository and follow thes step`
+## `download or clone the repository and follow these step`
 
 ### `1.`
 
@@ -12,7 +12,7 @@ run the command npm install
 
 ### `2.`
 
-in the firebase.js paste your config file be sure to make the rooms collection<br/>
+in the firebase.js paste your config file from your firebase console be sure to make the rooms collection<br/>
 inside the rooms collection make messages collection
 
 ### `npm start`
