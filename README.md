@@ -1,21 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+For to see This application in your browser locally in your machine follow the  following steps:
 
-In the project directory, you can run:
+First clone this project from this link: git clone https://github.com/ibrahim-nazari/whatsapp-clone
 
-## `download or clone the repository and follow these step`
+second : run this command npm install
 
-### `1.`
+Third: run this command : npm start
 
-run the command npm install
+go to your browser and type the http://localhost:3000 and hit enter you will see the website
 
-### `2.`
+that is all
 
-in the firebase.js paste your config file from your firebase console be sure to make the rooms collection<br/>
-inside the rooms collection make messages collection
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
