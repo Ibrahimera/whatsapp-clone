@@ -1,4 +1,4 @@
-### live demo <a href="https://whatsapp-5e50d.web.app/" target="_blank">WhatsApp clone</a>
+### live demo <a href="https://whatsapp-5e50d.web.app/" target="_blank">https://whatsapp-5e50d.web.app/</a>
 
 For to see This application in your browser locally in your machine follow the  following steps:
 
